@@ -10,3 +10,9 @@ Sample website with plenty of files for demos
 
 2014 Git.Training
 
+
+## How to contribute 
+
+please for this repository and then issue pull request for review.
+
+
